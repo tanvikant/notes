@@ -12,4 +12,4 @@
 
 Let array `greetings` contain a single string called `Hello`. I want to test for when `greetings` contains 10 strings.
 
-[...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings]
+`[...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings, ...greetings]`
